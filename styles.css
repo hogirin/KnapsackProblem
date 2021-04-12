@@ -1,0 +1,14 @@
+#container{
+    color: red;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-top: 250px;
+}
+
+.block{
+    display: inline-block;
+    border: 1px solid purple;  
+    margin: 10px;
+    padding: 5px;
+}
