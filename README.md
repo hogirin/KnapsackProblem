@@ -19,5 +19,25 @@ The mutation rate is 15% and crossover is one half of one solution and the other
 Tested on combinations of 6 items with a population of 20 and iteration count of 10. The chances to get a solution from a pool with all possible solutions is about 70% (executed the program about 1000 times).
 I like the way the algorithm, like this one, can solve problems that are not obvious for human thinking (like A.I). Especially when the algorithm comes up with a solution you did not think of.
 
+# instructions 
+
+Insert a few numbers first. 
+So for each number, click on "Generate position":
+
+![image](https://user-images.githubusercontent.com/8873367/114570499-296cc400-9c76-11eb-8d44-662ec0b08ef2.png)
+
+Then, define a limit:
+
+![image](https://user-images.githubusercontent.com/8873367/114571072-a8fa9300-9c76-11eb-8f7c-92b719e3d376.png)
+
+Now, you see a set of numbers:
+
+![image](https://user-images.githubusercontent.com/8873367/114571591-14dcfb80-9c77-11eb-8cba-aa887aaabeba.png)
+
+When you click on "Calculate", a solution will show up in yellow:
+
+![image](https://user-images.githubusercontent.com/8873367/114571926-54a3e300-9c77-11eb-90f6-c777c9a28b81.png)
+
+
 I hope you like it!
 
