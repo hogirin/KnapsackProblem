@@ -60,13 +60,20 @@ window.onload=function(){
 
             let bestOnes = population.getBestSolutions();
 
-            /* 
+            
             // A moment for verfication. To see all solutions generated.
-            // This moment only one solution is shown.
+            // This moment only one solution is shown visible (by the yellow color).
+            // Logs all found solutions in console. 
             bestOnes.forEach(lid => {
-                console.log(lid);
-            });*/
-
+                let collectedItems = [];
+                for (let i = 0; i < lid.length; i++) {
+                    if (lid[i] == "1") {
+                        collectedItems.push(collection[i]);
+                    }
+                }
+                console.log(collectedItems);
+            });
+            console.log("-----");
 
             let blocks = document.getElementsByClassName("block");
 
@@ -94,4 +101,6 @@ window.onload=function(){
 
 
   }
+
+
 
