@@ -38,6 +38,9 @@ When you click on "Calculate", a solution will show up in yellow:
 
 ![image](https://user-images.githubusercontent.com/8873367/114571926-54a3e300-9c77-11eb-90f6-c777c9a28b81.png)
 
+You can click "Calculate" as many times as you like to show a new solution (if there is not only one possible).
+Furthermore, you can refresh or clean up by reloading this page (the yellow boxes will disappear).
+
 
 I hope you like it!
 
