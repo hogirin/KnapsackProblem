@@ -1,3 +1,17 @@
+# Added by @hogirin 
+
+The original source is https://github.com/PatrickVos/KnapsackProblem and https://patrickvos.github.io/KnapsackProblem/ .
+
+I went forked just to link to GitHub Pages for more convenient and personal use.  ex. https://hogirin.github.io/KnapsackProblem/
+
+If you have any problems with this fork, please contact by issue etc.
+
+Finally, thank you Patrick Vos. I am using it conveniently.
+
+Below is the original README.md
+
+------
+
 # About the Knapsack problem
 
 The knapsack problem is a problem where the amount of items and their sum of values are weighed up. 
